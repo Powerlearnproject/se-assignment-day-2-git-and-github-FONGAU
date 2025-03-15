@@ -102,7 +102,8 @@ Allowing you to revert to previous states.
 
 Enabling collaboration by syncing changes.
 
-## How does branching work in Git, and why is it an important feature for collaborative development on GitHub? Discuss the process of creating, using, and merging branches in a typical workflow.Branching allows developers to work on separate features or fixes without affecting the main codebase. Key steps:
+## How does branching work in Git, and why is it an important feature for collaborative development on GitHub? Discuss the process of creating, using, and merging branches in a typical workflow.
+Branching allows developers to work on separate features or fixes without affecting the main codebase. Key steps:
 
 Create a branch: git branch <branch-name>
 
